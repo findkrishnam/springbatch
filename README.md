@@ -1,2 +1,2 @@
 # springbatch
-spring batch demp
+spring batch demo
